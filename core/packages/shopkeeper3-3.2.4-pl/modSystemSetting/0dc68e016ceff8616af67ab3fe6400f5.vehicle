@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'shopkeeper3',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '038edab21020b4db06d33542545e989d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0dc68e016ceff8616af67ab3fe6400f5',
+  'native_key' => 'shk3.mail_order_data_row_tpl',
+  'object' => '{"key":"shk3.mail_order_data_row_tpl","value":"orderDataRow","xtype":"textfield","namespace":"shopkeeper3","area":"","editedon":null}',
+);
