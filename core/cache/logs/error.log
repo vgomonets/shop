@@ -1,0 +1,462 @@
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/modinstallversion.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/parser/modinstallparser.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/parser/modinstallsmarty.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/test/modinstalltestgit.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/test/modinstalltesttraditional.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/test/modinstalltestadvanced.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/test/modinstalltestsdk.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/test/modinstalltest.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/new.install.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.1.2-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.0-pl2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.6-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-alpha-6.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.4.0-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.4.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-rc-3.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-beta-3.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.5-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.3.0-rc1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-beta-2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.1.0-rc-2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-beta-1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.3.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.0-rc1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-rc-1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.0-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.1.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-rc-2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.5-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.7-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.0-rc2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.4-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.10-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-alpha-1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.5.0-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.9-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-beta-4.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.1.0-rc-1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-beta-5.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-alpha-3.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-alpha-4.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.6-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-alpha-2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.2.2-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/mysql/2.0.0-alpha-5.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.1.2-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.0-pl2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.4.0-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.4.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.3.0-rc1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.1.0-rc-2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.3.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.0-rc1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.0-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.1.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.7-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.0-rc2.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.10-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.5.0-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.9-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.1.0-rc-1.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.1-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.6-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/sqlsrv/2.2.2-pl.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4-principal-index.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4-categories-rank.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.2-media-sources.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.5-cleanup-script.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.3.1-feed_modx_security.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.3.1-base_help_url.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.2-tv-renders.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4-tmplvar-index.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.3.1-oninitculture.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4-namespace-access.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4-manager-index.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.2-disable-allowtagsinpost.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4-package-provider.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.3-fc-action.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.5-user-createdon.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4-user-country-iso.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.3-extension-packages.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrades/common/2.4.1-namespace-access.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/error/modinstalljsonerror.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/error/modinstallerror.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/modinstall.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/runner/modinstallrunner.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/runner/modinstallrunnerweb.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/config/modevolutionconfigreader.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/config/modrevolutionconfigreader.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/config/modconfigreader.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/tables_create.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/drivers/modinstalldriver.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/drivers/modinstalldriver_sqlsrv.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/drivers/modinstalldriver_mysql.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/request/modinstallclirequest.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/request/modinstallconnectorrequest.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/request/modinstallrequest.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/config.core.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/upgrade.install.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/modinstallsettings.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/includes/modinstalllexicon.class.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/config.dist.upgrade.xml): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/index.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/findcore.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/welcome.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/database.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/language.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/install.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/license.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/summary.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/contexts.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/options.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/base_resource.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/complete.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/base_template.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/footer.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/templates/header.tpl): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/config.dist.new.xml): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/contexts.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/summary.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/welcome.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/language.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/options.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/database.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/complete.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/login.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/controllers/install.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/provisioner/bootstrap.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/reset.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/layout.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/print.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/text.orig.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/12_col.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/style.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/text.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/16_col.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/css/960.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/sidebox_bottom.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/search_background.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_developer.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_screencasts.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/screencast_placeholder.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_designer.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/im_inst_upgrade.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/search_go_hover.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/modx_footer.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_ok.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_open_source.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/whatwhyhow_background.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/modx_mgr_screenshot.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_rss.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/mainnav_buttons.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/downloadbar_separator.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_features_list.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/meta_separator.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/meta_down.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/quote_bubble.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/modx_logo_header.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/modx-logo.svg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/modx-logo.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/box_header_background.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/downloadbar_background.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/rssbox_separator.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/footer_fold_top.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/footer_fold_bottom.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/subnav_buttons.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_empty_screenshot.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/sidebox_top.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_core.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/footer_textbox.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/im_resources.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/link_button_footer.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_info.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/headers.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_warning.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/whatwhyhow_arrow.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/bg-pattern.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/rssbox_bottom.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/footer_separator.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/link_button.jpg): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/hl_corner_tr.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/ul_corner_tl.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/hl_corner_bl.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/ul_corner_tr.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/as_pointer.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/hl_corner_br.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/ul_corner_bl.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/ul_corner_br.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/img_inquisitor/hl_corner_tl.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/im_new_inst.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/header_background.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/icon_server.png): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/images/bullet_grey.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/modx.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/sections/welcome.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/sections/summary.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/sections/database.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/sections/contexts.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/sections/install.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/ext-core.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/ext-core-debug.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/inc/say.no.to.ie.6.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/inc/blank.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/inc/csshover2.htc): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/inc/iepngfix.htc): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/inc/clear.gif): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/js/modx.setup.js): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/assets/modx_scripts.css): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/index.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/de/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/de/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/de/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/de/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/de/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hu/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hu/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hu/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hu/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hu/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pt-br/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pt-br/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pt-br/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pt-br/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pt-br/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pl/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pl/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pl/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pl/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/pl/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/nl/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/nl/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/nl/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/nl/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/nl/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fi/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fi/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fi/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fi/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fi/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ru/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ru/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ru/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ru/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ru/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/es/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/es/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/es/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/es/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/es/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/he/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/he/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/he/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/he/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/he/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/zh/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/zh/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/zh/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/zh/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/zh/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fr/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fr/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fr/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fr/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fr/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hi/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hi/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hi/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hi/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/hi/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fa/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fa/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fa/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fa/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/fa/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/en/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/en/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/en/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/en/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/en/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/cs/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/cs/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/cs/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/cs/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/cs/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/et/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/et/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/et/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/et/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/et/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/be/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/be/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/be/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/be/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/be/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/da/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/da/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/da/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/da/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/da/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/el/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/el/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/el/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/el/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/el/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ro/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ro/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ro/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ro/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ro/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/id/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/id/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/id/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/id/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/id/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/uk/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/uk/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/uk/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/uk/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/uk/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/sv/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/sv/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/sv/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/sv/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/sv/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/th/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/th/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/th/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/th/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/th/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/bg/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/bg/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/bg/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/bg/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/bg/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ja/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ja/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ja/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ja/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ja/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/it/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/it/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/it/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/it/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/it/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ar/test.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ar/drivers.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ar/preload.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ar/default.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/lang/ar/upgrades.inc.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/processors/url_search.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/processors/database/connection.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/processors/database/collation.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/processors/path_search.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/processors/connector.php): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 510) PHP warning: unlink(/var/www/html/shop.com/setup/config.dist.upgrade-advanced.xml): Permission denied
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/core/xpdo/cache/xpdocachemanager.class.php : 518) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2016-09-18 16:19:28] (ERROR @ /var/www/html/shop.com/setup/includes/modinstall.class.php : 314) An error occurred while trying to remove the setup directory.
+[2016-09-18 16:19:42] (ERROR @ /var/www/html/shop.com/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 3065
+    [2] => Expression #1 of ORDER BY clause is not in SELECT list, references column 'shop.com.tvtpl.rank' which is not in SELECT list; this is incompatible with DISTINCT
+)
+
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2016-09-18 16:24:55] (ERROR in modTransportProvider::find @ /var/www/html/shop.com/core/model/modx/transport/modtransportprovider.class.php : 271) MODX отримав порожню відповідь від постачальника. Будь ласка, перевірте адресу URL Вашого постачальника і переконайтеся, що постачальник є правильним постачальником.
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2016-09-18 16:24:55] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2016-09-18 16:24:55] (ERROR in modTransportProvider::find @ /var/www/html/shop.com/core/model/modx/transport/modtransportprovider.class.php : 271) MODX отримав порожню відповідь від постачальника. Будь ласка, перевірте адресу URL Вашого постачальника і переконайтеся, що постачальник є правильним постачальником.
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2016-09-18 16:25:22] (ERROR in modTransportProvider::find @ /var/www/html/shop.com/core/model/modx/transport/modtransportprovider.class.php : 271) MODX отримав порожню відповідь від постачальника. Будь ласка, перевірте адресу URL Вашого постачальника і переконайтеся, що постачальник є правильним постачальником.
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2016-09-18 16:25:22] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2016-09-18 16:25:22] (ERROR in modTransportProvider::find @ /var/www/html/shop.com/core/model/modx/transport/modtransportprovider.class.php : 271) MODX отримав порожню відповідь від постачальника. Будь ласка, перевірте адресу URL Вашого постачальника і переконайтеся, що постачальник є правильним постачальником.
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2016-09-18 16:26:21] (ERROR in modTransportProvider::find @ /var/www/html/shop.com/core/model/modx/transport/modtransportprovider.class.php : 271) MODX отримав порожню відповідь від постачальника. Будь ласка, перевірте адресу URL Вашого постачальника і переконайтеся, що постачальник є правильним постачальником.
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2016-09-18 16:26:21] (ERROR @ /var/www/html/shop.com/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2016-09-18 16:26:21] (ERROR in modTransportProvider::find @ /var/www/html/shop.com/core/model/modx/transport/modtransportprovider.class.php : 271) MODX отримав порожню відповідь від постачальника. Будь ласка, перевірте адресу URL Вашого постачальника і переконайтеся, що постачальник є правильним постачальником.
+[2016-09-18 16:43:35] (ERROR @ /var/www/html/shop.com/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 3065
+    [2] => Expression #1 of ORDER BY clause is not in SELECT list, references column 'shop.com.tvtpl.rank' which is not in SELECT list; this is incompatible with DISTINCT
+)
+

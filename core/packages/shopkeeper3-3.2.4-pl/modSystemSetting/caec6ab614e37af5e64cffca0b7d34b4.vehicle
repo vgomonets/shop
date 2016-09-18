@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'shopkeeper3',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8ac11699fc9e97fcf0e7d59e31049edd',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'caec6ab614e37af5e64cffca0b7d34b4',
+  'native_key' => 'shk3.property_sets',
+  'object' => '{"key":"shk3.property_sets","value":"cart_catalog,cart_order_page","xtype":"textfield","namespace":"shopkeeper3","area":"","editedon":null}',
+);

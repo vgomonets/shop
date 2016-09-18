@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'name',
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'shopkeeper3',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'edcb2a6963a5a60680ea37fcd1ea2600',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'a21c48a131f440f9604f4ca928279e96',
+  'native_key' => 'OnSHKScriptsLoad',
+  'object' => '{"name":"OnSHKScriptsLoad","service":6,"groupname":"Shopkeeper3"}',
+);
